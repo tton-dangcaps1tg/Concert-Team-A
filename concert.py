@@ -191,3 +191,5 @@ FUN - Festival Explorer
         if password == "tton-dangcaps1tg":
             print("\nACCESS GRANTED!")
             print("WELCOME TO STAFF MANAGEMENT SYSTEM")
+        else:
+            print("Wrong")
